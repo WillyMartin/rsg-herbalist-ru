@@ -1,0 +1,16 @@
+{
+    "gathering_herb": "Собирал травы...",
+    "inventory_full_title": "Инвентарь полон",
+    "inventory_full_description": "У вас недостаточно места, чтобы нести эту траву.",
+    "crafting_tonic": "Готовлю тоник...",
+    "craft_locked_title": "Не травник",
+    "craft_locked_description": "Только травники могут использовать станцию для изготовления тонизирующих средств.",
+    "craft_missing_title": "Недостающие ингредиенты",
+    "craft_missing_description": "У вас нет всего, что нужно для этого тоника.",
+    "tonic_cooldown_title": "У вас нет всего, что нужно для этого тоника.",
+    "tonic_cooldown_description": "Вам нужно немного подождать, прежде чем пить еще один тоник.",
+    "opening_mysterybox": "Открываю коробку...",
+    "open_mysterybox_prompt": "[E] Откройте Таинственную шкатулку",
+    "mysterybox_found_title": "Таинственная шкатулка",
+    "mysterybox_found_description": "Вы нашли коллекцию трав, в том числе редкую орхидею!"
+}
